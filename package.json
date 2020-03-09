@@ -55,6 +55,7 @@
     },
     "repository": "RSN7/r-app",
     "scripts": {
+        "start": "npm run build && node src/server/index.js",
         "build": "lwc-services build -m production",
         "build:development": "lwc-services build",
         "lint": "eslint ./src/**/*.js",
