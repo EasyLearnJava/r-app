@@ -5,7 +5,7 @@
     "author": "RSN7",
     "bugs": "https://github.com/RSN7/r-app/issues",
     "dependencies": {
-        "compression": "^1.7.4",
+        "compression": "^1.8.1",
         "dotenv": "^8.2.0",
         "express": "^4.17.1",
         "helmet": "^3.21.3",
